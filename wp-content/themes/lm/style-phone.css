@@ -1,0 +1,671 @@
+/* @override http://luciamarin.it/wp-content/themes/lm/style-phone.css */
+
+#logo {
+	position: relative;
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 180px;
+	height: auto;
+}
+h1 {
+	margin-top: 5px;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+h1 strong {
+	font-weight: 300;
+	letter-spacing: -1px;
+	line-height: 110%;
+	font-size: 30px;
+}
+h1 small {
+	display: block;
+	font-size: 0.4em;
+	letter-spacing: 1px;
+	font-weight: 400;
+	margin-top: 14px;
+	line-height: 130%;
+	text-transform: uppercase;
+	color: #7e8c82;
+}
+#fascia-top  {
+	display: block;
+	position: relative;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+#fascia-top a {
+	margin-top: -3px;
+	position: relative;
+	float: left;
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+}
+#fascia-top a img {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	position: relative;
+	margin: 0 auto;
+	top: 0px;
+	width: 90%;
+}
+
+#home-main-content {
+	float: left;
+	color: #165659;
+	position: absolute;
+	padding-right: 0%;
+	padding-top: 20px;
+	left: 0%;
+	z-index: 99;
+}
+
+#home-main-content h2 {
+	color: #000;
+	font-size: 18px;
+	line-height: 160%;
+	font-weight: 400;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	letter-spacing: 0px;
+	width: 100%;
+	clear: both;
+}
+#home-main-content h2.chisono {
+	position: relative;
+	padding: 0 10%;
+	left: 0px;
+	top: 0px;
+	font-weight: 300;
+	letter-spacing: -0.035em;
+	color: #4f4f4f;
+	font-size: 16px;
+	border: none;
+	width: 80%;
+	clear: both;
+	text-align: center;
+}
+#home-lucia {
+	width: auto;
+	max-width: 100%;
+	max-height: 2000px;
+}
+form {
+	position: relative;
+	margin: 0 auto;
+	width: 90%;
+	padding: 5%;
+	min-width: 0;
+	max-width: 550px;
+}
+.home-news form {
+	position: relative;
+	margin: 0 auto;
+	clear: both;
+	width: 100%;
+	padding: 0px;
+}
+.home-servizi .col.w30 strong {
+	padding-top: 10px;
+	font-size: 23px;
+	display: inline-block;
+	margin-bottom: 10px;
+	color: #2c3e50;
+	margin-top: 0;
+	line-height: 100%;
+	width: 100%;
+}
+.col.w30 {
+	max-width: 100%;
+	width: 80%;
+	margin-bottom: 10px;	
+}
+.newsbig label {
+	float: left;
+	width: 18%;
+	text-align: left;
+	margin: 0;
+	
+	padding: 0px;
+}
+.home-news input {
+	float: right;
+	border: 0px;
+	padding: 5px;
+	width: 70%;
+	border-radius: 2px;
+	padding: 10px;
+	border: 2px solid #b1f6cb;
+}
+.wysija-paragraph {
+	width: 100%;
+	float: left;
+}
+.home-news input.wysija-submit-field {
+	padding: 10px;
+	font-size: 15px;
+	background-color: #314034;
+	color: #fff;
+	margin-left: 0px;
+	width: 100%;
+	margin-top: 0px !important;
+	border-radius: 3px;
+	border: 2px solid #2f8a8f;
+
+}
+.home-servizi h2 {
+	border-bottom: 1px solid #c7dbcb;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.content.clear {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 0px;
+	clear: both;
+}
+.col.w30.i-casa {
+	background: url(images/icon-casa.png) no-repeat center top;
+	background-size: 30px;
+	padding-top: 20px;
+	text-align: center;
+	margin-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.col.w30.i-studio {
+	background: url(images/icon-studio.png) no-repeat center top;
+	background-size: 30px;
+	padding-top: 30px;
+	text-align: center;
+	margin-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.col.w30.i-azienda {
+	background: url(images/icon-azienda.png) no-repeat center top;
+	background-size: 40px;
+	padding-top: 20px;
+	text-align: center;
+	margin-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.w30 strong br {
+	display: none;
+}
+
+.w100 {
+	width: 100%;
+}
+.w90 {
+	width: 90%;
+	margin-left: 5%;
+}
+.w80 {
+	width: 90%;
+	margin-left: 5%;
+}
+.w70 {
+	width: 70%;
+}
+.w60 {
+	width: 60%;
+}
+.w50 {
+	width: 50%;
+}
+.w30 {
+	width: 30%;
+}
+
+
+#formnewsl {
+	position: relative;
+	margin: 0 auto;
+	width: 95%;
+}
+.home-servizi .col.w50 {
+	width: 100%;
+	padding-left: 0%;
+}
+
+.servizi-dove p {
+	margin-bottom: 30px;
+}
+h2.titlenewsletter {
+	font-size: 18px;
+	letter-spacing: 0px;
+}
+
+.home-news .col {
+	position: relative;
+	z-index: 50;
+	width: 100%;
+}
+.content.clear.home-news {
+	position: relative;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 2px;
+	margin-top: 4px;
+	clear: both;
+	background-color: #96eab6;
+	float: left;
+	clear: both;
+	height: auto;
+}
+.col.coltext {
+	min-height: 180px;
+	background-color: transparent;
+	margin-left: 0%;
+}
+.home-naet {
+	position: relative;
+	min-height: 100px;
+	overflow: hidden;
+	margin-top: 40px;
+}
+.home-naet img {
+	position: absolute;
+	width: auto;
+	top: 0%;
+}
+.home-naet h2 {
+	margin-top: 5%;
+	font-weight: 300;
+	line-height: 100%;
+	font-size: 40px;
+	color: #fff;
+	text-shadow: 0px 0px 2px rgba(48, 72, 96, 1);
+	border-bottom: 0;
+}
+.home-naet h3 {
+	position: relative;
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	text-shadow: 0px 0px 2px rgba(48, 72, 96, 1);
+	margin-bottom: 2%;
+	line-height: 120%;
+}
+.home-naet p {
+	position: relative;
+	width: 100%;
+	line-height: 150%;
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+	text-shadow: 0px 0px 2px rgba(48, 72, 96, 1);
+}
+#naetbox {
+	margin-top: 20px;
+}
+
+
+.content.clear.home-news.newsbig {
+	position: relative;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 2px;
+	margin-top: 4px;
+	clear: both;
+	background-color: #96eab6;
+	text-align: center;
+	background-image: url(images/bg2.png);
+	margin-top: 10px;
+	border-top: 5px solid #eafdd4;
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 90%;
+}
+#page .container {
+	margin: 0 5%;
+	text-align: left;
+}
+.col.w50 {
+	width: 100%;
+}
+.servizi-dove {
+	border-top: 1px solid #eee;
+	margin-top: 30px;
+}
+
+#page input.wpcf7-submit {
+	padding: 10px;
+	font-size: 13px;
+	background-color: #314034;
+	color: #fff;
+	margin-left: 35%;
+	width: 62%;
+	margin-top: 0px !important;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+article h2 {
+	font-size: 40px;
+	margin-bottom: 10px;
+	line-height: 110%;
+}
+
+
+
+
+
+/*
+
+Responsive Mobile Menu v1.0
+Plugin URI: responsivemobilemenu.com
+
+Author: Sergio Vitov
+Author URI: http://xmacros.com
+
+License: CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+
+*/
+
+.rmm {
+	display:block;
+	position:relative;
+	width:100%;
+	padding:0px;
+	margin:0 auto !important;
+	text-align: center;
+	line-height:19px !important;
+	margin-bottom: 30px !important;
+}
+.rmm * {
+	-webkit-tap-highlight-color:transparent !important;
+}
+.rmm a {
+	text-decoration:none;
+}
+.rmm .rmm-main-list, .rmm .rmm-main-list li {
+	margin:0px;
+	padding:0px;
+}
+.rmm ul {
+	display:block;
+	width:auto !important;
+	margin:0 auto !important;
+	overflow:hidden;
+	list-style:none;
+	visibility: hidden;
+}
+
+
+/* sublevel menu - in construction */
+.rmm ul li ul, .rmm ul li ul li, .rmm ul li ul li a {
+	display:none !important;
+	height:0px !important;
+	width:0px !important;
+}
+/* */
+
+
+.rmm .rmm-main-list li {
+	display:inline;
+	padding:padding:0px;
+	margin:0px !important;
+}
+.rmm-toggled {
+	display:none;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+	margin:0 auto !important;
+}
+.rmm-button:hover {
+	cursor:pointer;
+}
+.rmm .rmm-toggled ul {
+	display:none;
+	margin:0px !important;
+	padding:0px !important;
+}
+.rmm .rmm-toggled ul li {
+	display:block;
+	margin:0 auto !important;
+}
+
+
+
+
+/* GRAPHITE STYLE */
+
+.rmm.graphite .rmm-main-list li a {
+	display:inline-block;
+	padding:8px 30px 8px 30px;
+	margin:0px -3px 0px -3px;
+	font-size:15px;
+	background-color:#444444;
+	border-left:1px solid #555555;
+	background-image:url('images/graphite-menu-bg.png');
+	background-repeat:repeat-x;
+}
+.rmm.graphite .rmm-main-list li a:hover {
+	background-image:url('images/graphite-menu-bg-hover.png');
+}
+.rmm.graphite .rmm-main-list li:first-child a {
+}
+.rmm.graphite .rmm-main-list li:last-child a {}
+.rmm.graphite .rmm-toggled {
+	width:100%;
+	
+	background-image: url(images/bg1.png);
+	min-height:36px;
+}
+.rmm.graphite .rmm-toggled-controls {
+	display:block;
+	height:36px;
+	color:white;
+	text-align:left;
+	position:relative;
+	background-repeat:repeat-x;
+	border-radius:6px;
+}
+.rmm.graphite .rmm-toggled-title {
+	position:relative;
+	top:9px;
+	left:15px;
+	font-size:15px;
+	text-transform: uppercase;
+	color: #2d392c;
+	letter-spacing: 5px;
+}
+.rmm.graphite .rmm-button {
+	display:block;
+	position:absolute;
+	right:15px;
+	top:8px;
+}
+
+.rmm.graphite .rmm-button span {
+	display:block;
+	margin-top:4px;
+	height:2px;
+	background: #2d392c;
+	width:24px;
+}
+.rmm.graphite .rmm-toggled ul li a {
+	display:block;
+	width:100%;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+	border-top:1px solid #c6ecc3;
+	text-transform: uppercase;
+}
+.rmm.graphite .rmm-toggled ul li a:active {
+	font-weight: bold;
+}
+
+
+
+/* SAPPHIRE STYLE */
+
+.rmm.sapphire .rmm-main-list li a {
+	display:inline-block;
+	padding:8px 30px 8px 30px;
+	margin:0px -3px 0px -3px;
+	font-size:15px;
+	text-shadow:1px 1px 1px #3e587b;
+	background-color:#537b9f;
+	border-left:1px solid #3e587b;
+	background-image:url('images/sapphire-menu-bg.png');
+	background-repeat:repeat-x;
+}
+.rmm.sapphire .rmm-main-list li a:hover {
+	background:#3e597b;
+}
+.rmm.sapphire .rmm-main-list li:first-child a {
+-webkit-border-top-left-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+.rmm.sapphire .rmm-main-list li:last-child a {
+	-webkit-border-top-right-radius: 5px;
+-webkit-border-bottom-right-radius: 5px;
+-moz-border-radius-topright: 5px;
+-moz-border-radius-bottomright: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.rmm.sapphire .rmm-toggled {
+	width:95%;
+	background-color:#537b9f;
+	min-height:36px;
+	border-radius:6px;
+}
+.rmm.sapphire .rmm-toggled-controls {
+	display:block;
+	height:36px;
+	color:white;
+	text-align:left;
+	position:relative;
+	background-image:url('images/sapphire-menu-bg.png');
+	background-repeat:repeat-x;
+	border-radius:5px;
+}
+.rmm.sapphire .rmm-toggled-title {
+	position:relative;
+	top:9px;
+	left:15px;
+	font-size:16px;
+	color:white;
+	text-shadow:1px 1px 1px #3e587b;
+}
+.rmm.sapphire .rmm-button {
+	display:block;
+	position:absolute;
+	right:9px;
+	top:7px;
+	width:20px;
+	padding:0px 7px 0px 7px;
+	border:1px solid #3e587b;
+	border-radius:3px;
+	background-image:url('images/sapphire-menu-bg.png');
+	background-position:top;
+}
+
+.rmm.sapphire .rmm-button span {
+	display:block;
+	margin:4px 0px 4px 0px;
+	height:2px;
+	background:white;
+	width:20px;
+}
+.rmm.sapphire .rmm-toggled ul li a {
+	display:block;
+	width:100%;
+	background-color:#537698;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+	border-bottom:1px solid #3c5779;
+	border-top:1px solid #6883a6;
+	text-shadow:1px 1px 1px #333333;
+}
+.rmm.sapphire .rmm-toggled ul li a:active {
+	background-color:#3c5779;
+	border-bottom:1px solid #3c5779;
+	border-top:1px solid #3c5779;
+}
+.rmm.sapphire .rmm-toggled ul li:first-child a { 
+	border-top:1px solid #3c5779 !important;
+}
+
+
+
+
+
+/* MINIMAL STYLE */
+
+.rmm.minimal a {
+	color:#333333;
+}
+.rmm.minimal a:hover {
+	opacity:0.7;
+}
+.rmm.minimal .rmm-main-list li a {
+	display:inline-block;
+	padding:8px 30px 8px 30px;
+	margin:0px -3px 0px -3px;
+	font-size:15px;
+}
+.rmm.minimal .rmm-toggled {
+	width:95%;
+	min-height:36px;
+}
+.rmm.minimal .rmm-toggled-controls {
+	display:block;
+	height:36px;
+	color:#333333;
+	text-align:left;
+	position:relative;
+}
+.rmm.minimal .rmm-toggled-title {
+	position:relative;
+	top:9px;
+	left:9px;
+	font-size:16px;
+	color:#33333;
+}
+.rmm.minimal .rmm-button {
+	display:block;
+	position:absolute;
+	right:9px;
+	top:7px;
+}
+
+.rmm.minimal .rmm-button span {
+	display:block;
+	margin:4px 0px 4px 0px;
+	height:2px;
+	background:#333333;
+	width:25px;
+}
+.rmm.minimal .rmm-toggled ul li a {
+	display:block;
+	width:100%;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+	border-bottom:1px solid #dedede;
+	color:#333333;
+}
+.rmm.minimal .rmm-toggled ul li:first-child a {
+	border-top:1px solid #dedede;
+}
+

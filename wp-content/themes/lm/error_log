@@ -1,0 +1,1 @@
+[10-Oct-2014 05:42:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/luciamar/public_html/wp-content/themes/lm/header.php on line 3

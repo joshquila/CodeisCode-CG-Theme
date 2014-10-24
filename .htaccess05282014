@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile "/home/luciamar/.htpasswds/public_html/passwd"
+require valid-user

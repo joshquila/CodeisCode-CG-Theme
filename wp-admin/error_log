@@ -1,0 +1,1 @@
+[13-Oct-2014 05:51:51 UTC] WordPress database error Table 'luciamar_wrdp1.wp_wponlinebackup_scan_log' doesn't exist for query TRUNCATE TABLE `wp_wponlinebackup_scan_log` made by activate_plugin, include_once('/plugins/wponlinebackup/wponlinebackup.php'), WPOnlineBackup->WPOnlineBackup, WPOnlineBackup->Activate, WPOnlineBackup->Check_Tables
